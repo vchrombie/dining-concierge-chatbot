@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "ThankYouIntent",
+    "version": "4",
+    "fulfillmentActivity": {
+      "type": "ReturnIntent"
+    },
+    "sampleUtterances": [
+      "Thank you",
+      "Thanks",
+      "ty"
+    ],
+    "slots": [],
+    "conclusionStatement": {
+      "messages": [
+        {
+          "groupNumber": 1,
+          "contentType": "PlainText",
+          "content": "You’re welcome!"
+        }
+      ]
+    },
+    "slotTypes": []
+  }
+}
