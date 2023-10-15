@@ -1,0 +1,30 @@
+{
+  "metadata": {
+    "schemaVersion": "1.0",
+    "importType": "LEX",
+    "importFormat": "JSON"
+  },
+  "resource": {
+    "name": "GreetingIntent",
+    "version": "3",
+    "fulfillmentActivity": {
+      "type": "ReturnIntent"
+    },
+    "sampleUtterances": [
+      "Hi",
+      "Hello",
+      "Hey"
+    ],
+    "slots": [],
+    "conclusionStatement": {
+      "messages": [
+        {
+          "groupNumber": 1,
+          "contentType": "PlainText",
+          "content": "Hi there, how can I help?"
+        }
+      ]
+    },
+    "slotTypes": []
+  }
+}
