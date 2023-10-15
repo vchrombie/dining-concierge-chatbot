@@ -1,3 +1,6 @@
 [submodule "s3"]
 	path = s3
 	url = https://github.com/vchrombie/cloud-hw1-starter
+[submodule "api/swagger"]
+	path = api/swagger
+	url = https://github.com/vchrombie/aics-columbia-s2018
