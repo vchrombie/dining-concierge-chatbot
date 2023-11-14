@@ -6,7 +6,47 @@ restaurants based on user preferences gathered through conversation.
 
 ## Chat flow
 
-Chatbot URL: https://vt2182-a1-s3.s3.amazonaws.com/chat.html
+> Chatbot URL: https://vt2182-a1-s3.s3.amazonaws.com/chat.html
+
+**Chatbot Concierge**
+
+*Bot:* Hi there, I'm your personal Concierge. 
+
+*User:* Hi
+
+*Bot:* Hi there, how can I help?
+
+*User:* I need some restaurant suggestions.
+
+*Bot:* Great. I can help you with that. What city or city area are you looking to dine in?
+
+*User:* Manhattan
+
+*Bot:* Got it, Manhattan. What cuisine would you like to try?
+
+*User:* Indian
+
+*Bot:* Ok, how many people are in your party?
+
+*User:* Eight
+
+*Bot:* A few more to go. What date?
+
+*User:* Tomorrow
+
+*Bot:* What time?
+
+*User:* 8 PM
+
+*Bot:* Great. Lastly, I need your email so I can send you my findings.
+
+*User:* vt2182@nyu.edu
+
+*Bot:* Thanks, I have placed your reservation.
+
+*User:* Thank you
+
+*Bot:* You're welcome!
 
 ## Architecture
 
